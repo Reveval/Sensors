@@ -1,0 +1,7 @@
+rootProject.name = "Sensors"
+include ':app'
+include ':p1371sensors'
+include ':p1372acceleration'
+include ':p1373orientation'
+include ':p1381location'
+include ':p1391googlemaps'
